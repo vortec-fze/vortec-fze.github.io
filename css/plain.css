@@ -1,0 +1,16 @@
+
+.main {
+    margin: auto;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+
+.logo {
+    width: 30vw;
+}
+
+h1, h2, h3, h4, a, p {
+    color: antiquewhite;
+}
