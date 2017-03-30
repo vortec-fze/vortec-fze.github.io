@@ -69,5 +69,5 @@ h1:before {
 Width:49vw;
 Float: left;
 
-}.main h2 {
+}.main h2,.main p{
   Color:white;}
