@@ -61,12 +61,13 @@ h1:before {
   -webkit-transform: perspective(600px) rotateY(70deg);
           transform: perspective(600px) rotateY(70deg);
 }
-.main{Padding-top: 50px;
-  font-color: white;
+.main{Padding-top: 80px;
+  
   Float:right;
 }
 .logo{
 Width:49vw;
 Float: left;
 
-}
+}.main h2 {
+  Color:white;}
