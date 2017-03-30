@@ -1,14 +1,4 @@
-h2, h3, h4, a, p {
-    color: antiquewhite;
-}
 
-body {
-    background-color: black;
-}
-body img{
-    height: 70vh;
-    margin: auto;
-}
 html, body {
   height: 100%;
   background: #1a5c9a;
