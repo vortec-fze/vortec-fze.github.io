@@ -62,7 +62,7 @@ h1:before {
           transform: perspective(600px) rotateY(70deg);
 }
 .main{Padding-top: 50px;
-  Color: white;
+  font-color: white;
   Float:right;
 }
 .logo{
