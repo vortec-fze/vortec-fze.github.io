@@ -61,13 +61,61 @@ h1:before {
   -webkit-transform: perspective(600px) rotateY(70deg);
           transform: perspective(600px) rotateY(70deg);
 }
-.main{Padding-top: 80px;
-  
-  Float:right;
-}
-.logo{
-Width:49vw;
-Float: left;
+#boxone{
+    background-color: black;
+    position:relative;
+    top: 50%;
+    text-align: center;
 
-}.main h2,.main p{
-  Color:white;}
+}
+#boxtwo{
+
+    background-color: darkred;
+    color: dimgrey;
+    position:relative;
+    top: 50%;
+    text-align: center;
+    }
+
+.logo{
+    width: 50%;
+
+}
+.main h2,.main p{
+    color:white;
+}
+
+#bottoms {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+    list-style: none;
+
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+}
+.bottom-blocks{
+  padding: 5px;
+  margin-top: 10px;
+}
+
+#boxthree {
+    background-color: darkred;
+    color: dimgrey;
+    text-align: center;
+
+}
+
+#boxfour {
+background-color: black;
+    color: dimgrey;
+    text-align: center;
+}
+
+#boxfive {
+    background-color: darkred;
+    color: dimgrey;
+    text-align: center;
+}
