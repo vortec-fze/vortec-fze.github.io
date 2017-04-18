@@ -71,7 +71,7 @@ h1:before {
 #boxtwo{
 
     background-color: darkred;
-    color: dimgrey;
+    color: black;
     position:relative;
     top: 50%;
     text-align: center;
@@ -116,6 +116,6 @@ background-color: black;
 
 #boxfive {
     background-color: darkred;
-    color: dimgrey;
+    color: black;
     text-align: center;
 }
