@@ -590,9 +590,15 @@ section {
   section.tint {
     background-color: #f5f5f5; }
   section .constrainer {
-    max-width: 360px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 0 30px; }
+
+.constrainer2{
+   max-width: 600px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
 
 .media-object {
   display: -webkit-box;
@@ -952,7 +958,7 @@ section.testimonials {
     background-size: cover;
     width: 98.6vw;
     min-height: 100vh;
-    position: relative;       
+    position: relative;    
 }
 
 
@@ -989,4 +995,13 @@ section.testimonials {
 }
 
 .pod {
+}
+
+.endpiece {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.contact-point {
+    padding-top: 280px;
 }
