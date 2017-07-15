@@ -449,6 +449,19 @@ hr {
   color:  rgba(365, 365, 365, 0.8);
   text-align: center; }
 
+.contact .section-head, p{
+    color: rgba(0,0,0,0.8);
+}
+.partners .section-head {
+   color:  rgba(0, 0, 0, 0.8); 
+}
+.pod{
+    padding: 15px;
+    background-color: rgba(0,0,0,.8);
+    border-top: 1px silver solid;
+     
+    
+}
 .lead {
   font-size: 16px;
   font-weight: 400;
@@ -470,6 +483,7 @@ hr {
   font-size: 12px;
   font-weight: 400;
   color: rgba(365, 365, 365, 0.5); }
+
 
 .blue {
   color: #0067AF; }
@@ -764,7 +778,8 @@ flex-wrap: wrap;}
   -webkit-justify-content: space-around;
       -ms-flex-pack: distribute;
           justify-content: space-around; 
-flex-wrap: wrap;}
+flex-wrap: wrap;
+}
   .partners .partners-icons > div {
     margin: 0 5px; }
   .partners .partners-icons p {
