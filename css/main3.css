@@ -911,7 +911,10 @@ section.testimonials {
      position: absolute; bottom: 0; 
 }
 
-.projects p, h4 {
+.projects p {
+    color: rgba(255,255,255,0.8);
+}
+.projects h4 {
     color: rgba(255,255,255,0.8);
 }
 .partners p{
