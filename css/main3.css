@@ -955,15 +955,30 @@ section.testimonials {
     position: relative;       
 }
 .backgroundbody6 {
-    background-image: url("../images/bg%20doors4.png");
+    background-image: url("../images/bg%20patterns%20(1).jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 98.6vw;
     min-height: 100vh;
-    position: relative;    
+    position: relative;
+    overflow: hidden;
+    
+    
 }
-
+.contactdoor{
+    background-image: url("../images/contact-door2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width:325px;
+    min-width: 300px;
+    min-height: 600px;
+    margin: 0 auto;    
+}
+.backgroundbody6 .section-head{
+    color: rgba(255,255,255,0.8);
+}
 
 #Layer_3 {
     position: absolute;
@@ -1008,7 +1023,7 @@ section.testimonials {
 }
 
 .contact-point {
-    padding-top: 280px;
+    padding-top: 380px;
 }
 
 
